@@ -1,5 +1,8 @@
 ## Lint란? :gem:
 
+> Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs. The term originates from a Unix utility that examined C language source code.
+- https://en.wikipedia.org/wiki/Lint_(software)
+
 ### Lint의 기본
 - python code writing guide PEP8 https://peps.python.org/pep-0484/
 
