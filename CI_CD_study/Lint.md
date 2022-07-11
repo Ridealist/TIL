@@ -1,4 +1,4 @@
-## Lint란?
+## Lint란? :gem:
 
 ### Lint의 기본
 - python code writing guide PEP8 https://peps.python.org/pep-0484/
@@ -18,7 +18,6 @@
 ### 언어별 Lint Library(Formatter)
 - python: pylint, flake8, black
 - JS: eslint, prettier, husky, lint-staged
-
+- Markdown: markdownlint
+    - [https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md](github/markdownlint)
 ---
-
-## 
