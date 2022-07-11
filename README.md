@@ -6,6 +6,8 @@
 - CI/CD Study
   - Lint
   
+- FastAPI_Study
+  
   
 ---
 **꾸준함이 유일한 성공의 비결이다.**
